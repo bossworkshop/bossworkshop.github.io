@@ -14,9 +14,6 @@ groups:
       - name: Alma
         surname: Rahat
         email: a.a.m.rahat@swansea.ac.uk
-      - name: Kaifeng
-        surname: Yang
-        email: kaifeng.yang@fh-hagenberg.at
   # - title: Local organizer
   #   columns: false
   #   members:
