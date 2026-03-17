@@ -9,7 +9,7 @@ plugins:
     - jekyll-remote-theme
     - jekyll-include-cache
 
-copyright: Place Holder
+copyright: BOSS Workshop Organisers
 indexing: true
 
 permalink: pretty
