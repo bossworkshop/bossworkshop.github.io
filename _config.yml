@@ -5,6 +5,10 @@ url: https://bossworkshop.github.io/
 
 remote_theme: piazzai/jekyll-nagymaros@v1.1.0
 
+plugins:
+    - jekyll-remote-theme
+    - jekyll-include-cache
+
 copyright: Place Holder
 indexing: true
 
@@ -13,3 +17,8 @@ permalink: pretty
 exclude:
     - LICENSE
     - README.md
+    - CLAUDE.md
+    - Gemfile
+    - Gemfile.lock
+    - serve.sh
+    - .ruby-version
