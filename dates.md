@@ -12,15 +12,15 @@ navorder: 2
   </tr>
   <tr>
     <td style="padding-right: 10px;">Abstract Submission</td>
-    <td>31st July, 2024</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td style="padding-right: 10px;">Notification of Acceptance</td>
-    <td>15th August, 2024</td>
+    <td>TBD</td>
   </tr>
   <tr>
-    <td style="padding-right: 10px;">PPSN 2024 Conference</td>
-    <td>September 14-18, 2024</td>
+    <td style="padding-right: 10px;">PPSN 2026 Conference</td>
+    <td>August 29 – September 2, 2026</td>
   </tr>
 </table>
 <br>
