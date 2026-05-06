@@ -12,11 +12,11 @@ navorder: 2
   </tr>
   <tr>
     <td style="padding-right: 10px;">Abstract Submission</td>
-    <td>TBD</td>
+    <td>June 5, 2026</td>
   </tr>
   <tr>
     <td style="padding-right: 10px;">Notification of Acceptance</td>
-    <td>TBD</td>
+    <td>June 30, 2026</td>
   </tr>
   <tr>
     <td style="padding-right: 10px;">PPSN 2026 Conference</td>
